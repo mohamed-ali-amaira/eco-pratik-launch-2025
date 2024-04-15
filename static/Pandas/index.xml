@@ -15,34 +15,6 @@
       <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
     <item>
-      <title>1. intro</title>
-      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson13/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson13/</guid>
-      <description>&#xD;Vidéo&#xD;#&#xD;</description>
-    </item>
-    <item>
-      <title>10. Filtration Simple et compelxe</title>
-      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson10/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson10/</guid>
-      <description>&#xD;Vidéo&#xD;#&#xD;</description>
-    </item>
-    <item>
-      <title>11. Graphique et Visualization</title>
-      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson11/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson11/</guid>
-      <description>&#xD;Vidéo&#xD;#&#xD;</description>
-    </item>
-    <item>
-      <title>12. Nettoyage D&#39;un Data Frame</title>
-      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson12/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson12/</guid>
-      <description>&#xD;Vidéo&#xD;#&#xD;</description>
-    </item>
-    <item>
       <title>2. Installation</title>
       <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -96,6 +68,34 @@
       <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson9/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>10. Filtration Simple et compelxe</title>
+      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson10/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>11. Graphique et Visualization</title>
+      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson11/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>12. Nettoyage D&#39;un Data Frame</title>
+      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson12/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>1. intro</title>
+      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson13/</guid>
       <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
   </channel>
