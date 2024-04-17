@@ -15,10 +15,24 @@
       <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
     <item>
+      <title>1. intro et présentation générale</title>
+      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson1/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
+    </item>
+    <item>
       <title>2. Installation</title>
       <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson2/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>2. Requette d&#39;ajout</title>
+      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson2/</guid>
       <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
     <item>
@@ -29,10 +43,31 @@
       <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
     <item>
+      <title>3. Requette de mise à jour</title>
+      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson3/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
+    </item>
+    <item>
       <title>4. Data Frame</title>
       <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson4/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>4. Requette de Sélèction</title>
+      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson4/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>5. Critères de filtre</title>
+      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson5/</guid>
       <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
     <item>
@@ -50,6 +85,13 @@
       <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
     <item>
+      <title>6. Requette de sélection avancée</title>
+      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson6/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
+    </item>
+    <item>
       <title>7. Opération sur les données de Data Frame</title>
       <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -57,10 +99,24 @@
       <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
     <item>
+      <title>7. Requette de sélection parametrée</title>
+      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson7/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
+    </item>
+    <item>
       <title>8. Fonction Statistiques</title>
       <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson8/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>8. Requette de suppression</title>
+      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson8/</guid>
       <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
     <item>
@@ -89,13 +145,6 @@
       <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson12/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson12/</guid>
-      <description>&#xD;Vidéo&#xD;#&#xD;</description>
-    </item>
-    <item>
-      <title>1. intro</title>
-      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson13/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson13/</guid>
       <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
   </channel>
