@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/tags/</link>
+    <link>https://eco.pratik.tn/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://pratik-eco-6091d5b5f1fe.herokuapp.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eco.pratik.tn/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

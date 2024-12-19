@@ -8,7 +8,7 @@ export const findUser = async (
 ): Promise<User | null> => {
   try {
     const { data: users, error } = await client
-      .from("access-accounts")
+      .from("access-accounts-gestion")
       .select("*")
       .eq("code_1", code_1);
 

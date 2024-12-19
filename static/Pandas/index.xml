@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pandas on </title>
-    <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/</link>
+    <link>https://eco.pratik.tn/Pandas/</link>
     <description>Recent content in Pandas on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eco.pratik.tn/Pandas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1. intro</title>
-      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson1/</link>
+      <link>https://eco.pratik.tn/Pandas/1._intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson1/</guid>
+      <guid>https://eco.pratik.tn/Pandas/1._intro/</guid>
       <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
     <item>
       <title>2. Installation</title>
-      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson2/</link>
+      <link>https://eco.pratik.tn/Pandas/2._installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson2/</guid>
-      <description>&#xD;Vidéo&#xD;#&#xD;Description&#xD;#&#xD;Lien téléchargement de Anaconda Navigator </description>
+      <guid>https://eco.pratik.tn/Pandas/2._installation/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
     <item>
       <title>3. Création d&#39;un nouveau notebook</title>
-      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson3/</link>
+      <link>https://eco.pratik.tn/Pandas/3._cr%C3%A9ation_dun_nouveau_notebook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson3/</guid>
-      <description>&#xD;Vidéo&#xD;#&#xD;Description&#xD;#&#xD;Lien Des Fichier Cours </description>
+      <guid>https://eco.pratik.tn/Pandas/3._cr%C3%A9ation_dun_nouveau_notebook/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
     <item>
       <title>4. Data Frame</title>
-      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson4/</link>
+      <link>https://eco.pratik.tn/Pandas/4._data_frame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson4/</guid>
-      <description>&#xD;Vidéo&#xD;#&#xD;Description&#xD;#&#xD;Lien Des Fichier Cours </description>
+      <guid>https://eco.pratik.tn/Pandas/4._data_frame/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
     <item>
       <title>5. Opération d&#39;affichage sur dataframe</title>
-      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson5/</link>
+      <link>https://eco.pratik.tn/Pandas/5._op%C3%A9ration_daffichage_sur_dataframe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson5/</guid>
-      <description>&#xD;Vidéo&#xD;#&#xD;Description&#xD;#&#xD;Lien Des Fichier Cours </description>
+      <guid>https://eco.pratik.tn/Pandas/5._op%C3%A9ration_daffichage_sur_dataframe/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
     <item>
       <title>6. Manipulation DATA FRAME</title>
-      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson6/</link>
+      <link>https://eco.pratik.tn/Pandas/6._manipulation_data_frame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson6/</guid>
-      <description>&#xD;Vidéo&#xD;#&#xD;Description&#xD;#&#xD;Lien Des Fichier Cours </description>
+      <guid>https://eco.pratik.tn/Pandas/6._manipulation_data_frame/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
     <item>
       <title>7. Opération sur les données de Data Frame</title>
-      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson7/</link>
+      <link>https://eco.pratik.tn/Pandas/7._op%C3%A9ration_sur_les_donn%C3%A9es_de_data_frame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson7/</guid>
-      <description>&#xD;Vidéo&#xD;#&#xD;Description&#xD;#&#xD;Lien Des Fichier Cours </description>
+      <guid>https://eco.pratik.tn/Pandas/7._op%C3%A9ration_sur_les_donn%C3%A9es_de_data_frame/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
     <item>
       <title>8. Fonction Statistiques</title>
-      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson8/</link>
+      <link>https://eco.pratik.tn/Pandas/8._fonction_statistiques/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson8/</guid>
-      <description>&#xD;Vidéo&#xD;#&#xD;Description&#xD;#&#xD;Lien Des Fichier Cours </description>
+      <guid>https://eco.pratik.tn/Pandas/8._fonction_statistiques/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
     <item>
       <title>9. Trie des données</title>
-      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson9/</link>
+      <link>https://eco.pratik.tn/Pandas/9._trie_des_donn%C3%A9es/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson9/</guid>
-      <description>&#xD;Vidéo&#xD;#&#xD;Description&#xD;#&#xD;Lien Des Fichier Cours </description>
+      <guid>https://eco.pratik.tn/Pandas/9._trie_des_donn%C3%A9es/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
     <item>
       <title>10. Filtration Simple et compelxe</title>
-      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson10/</link>
+      <link>https://eco.pratik.tn/Pandas/10._filtration_simple_et_compelxe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson10/</guid>
-      <description>&#xD;Vidéo&#xD;#&#xD;Description&#xD;#&#xD;Lien Des Fichier Cours </description>
+      <guid>https://eco.pratik.tn/Pandas/10._filtration_simple_et_compelxe/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
     <item>
       <title>11. Graphique et Visualization</title>
-      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson11/</link>
+      <link>https://eco.pratik.tn/Pandas/11._graphique_et_visualization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson11/</guid>
-      <description>&#xD;Vidéo&#xD;#&#xD;Description&#xD;#&#xD;Lien Des Fichier Cours </description>
+      <guid>https://eco.pratik.tn/Pandas/11._graphique_et_visualization/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
     <item>
       <title>12. Nettoyage D&#39;un Data Frame</title>
-      <link>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson12/</link>
+      <link>https://eco.pratik.tn/Pandas/12._nettoyage_dun_data_frame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson12/</guid>
-      <description>&#xD;Vidéo&#xD;#&#xD;Description&#xD;#&#xD;Lien Des Fichier Cours </description>
+      <guid>https://eco.pratik.tn/Pandas/12._nettoyage_dun_data_frame/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;</description>
     </item>
   </channel>
 </rss>

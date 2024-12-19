@@ -2,54 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson1/</loc>
+    <loc>https://eco.pratik.tn/Pandas/1._intro/</loc>
   </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson1/</loc>
+    <loc>https://eco.pratik.tn/Access/lesson1/</loc>
   </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson2/</loc>
+    <loc>https://eco.pratik.tn/Pandas/2._installation/</loc>
   </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson2/</loc>
+    <loc>https://eco.pratik.tn/Pandas/3._cr%C3%A9ation_dun_nouveau_notebook/</loc>
   </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson3/</loc>
+    <loc>https://eco.pratik.tn/Pandas/4._data_frame/</loc>
   </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson3/</loc>
+    <loc>https://eco.pratik.tn/Pandas/5._op%C3%A9ration_daffichage_sur_dataframe/</loc>
   </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson4/</loc>
+    <loc>https://eco.pratik.tn/Pandas/6._manipulation_data_frame/</loc>
   </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson4/</loc>
+    <loc>https://eco.pratik.tn/Pandas/7._op%C3%A9ration_sur_les_donn%C3%A9es_de_data_frame/</loc>
   </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson5/</loc>
+    <loc>https://eco.pratik.tn/Pandas/8._fonction_statistiques/</loc>
   </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson5/</loc>
+    <loc>https://eco.pratik.tn/Pandas/9._trie_des_donn%C3%A9es/</loc>
   </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson6/</loc>
+    <loc>https://eco.pratik.tn/Pandas/10._filtration_simple_et_compelxe/</loc>
   </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson6/</loc>
+    <loc>https://eco.pratik.tn/Pandas/11._graphique_et_visualization/</loc>
   </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson7/</loc>
+    <loc>https://eco.pratik.tn/Pandas/12._nettoyage_dun_data_frame/</loc>
   </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson7/</loc>
+    <loc>https://eco.pratik.tn/Access/</loc>
   </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson8/</loc>
+    <loc>https://eco.pratik.tn/</loc>
   </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/lesson8/</loc>
+    <loc>https://eco.pratik.tn/categories/</loc>
   </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson9/</loc>
+    <loc>https://eco.pratik.tn/Pandas/</loc>
   </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson10/</loc>
-  </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson11/</loc>
-  </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/lesson12/</loc>
-  </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Access/</loc>
-  </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/</loc>
-  </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/categories/</loc>
-  </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/Pandas/</loc>
-  </url><url>
-    <loc>https://pratik-eco-6091d5b5f1fe.herokuapp.com/tags/</loc>
+    <loc>https://eco.pratik.tn/tags/</loc>
   </url>
 </urlset>
